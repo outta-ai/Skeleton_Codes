@@ -12,9 +12,13 @@ OUTTA는 ‘out of’라는 뜻으로, 틀에 박힌 사고에서 벗어나 혁�
 [Contact Info.]
 
 Email: official.outta@gmail.com 
+
 Website: https://outta.co.kr 
+
 Linkedin: https://www.linkedin.com/company/outta%EC%95%84%EC%9A%B0%ED%83%80/  
+
 Youtube: https://www.youtube.com/channel/UCnufMCzh4pnqDMwUolDrM9A  
+
 Instagram: https://www.instagram.com/outta.official/
 
 OUTTA 드림.
