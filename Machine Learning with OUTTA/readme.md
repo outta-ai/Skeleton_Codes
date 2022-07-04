@@ -10,14 +10,11 @@ OUTTA는 ‘out of’라는 뜻으로, 틀에 박힌 사고에서 벗어나 혁�
 이 책은 코딩을 처음 배우시거나 막막하게 생각하시는 여러분들께서, 대표적인 코딩 언어 중 하나인 Python 코딩에 대한 기본적인 감을 잡으시길 바라는 마음으로 쓰여졌습니다. 또한, 더 발전된 코딩으로 개발할 수 있는 ‘인공지능’이 현재 산업 현장에서 어떻게 활용되고 있는지 전문가들의 인터뷰를 통해 살펴보시고, 인공지능에 대한 관심을 가지실 수 있게 되면 좋겠습니다.
 
 [Contact Info.]
-Email: official.outta@gmail.com
 
-Website: https://outta.co.kr
-
-Linkedin: https://www.linkedin.com/company/outta%EC%95%84%EC%9A%B0%ED%83%80/ 
-
-Youtube: https://www.youtube.com/channel/UCnufMCzh4pnqDMwUolDrM9A 
-
+Email: official.outta@gmail.com 
+Website: https://outta.co.kr 
+Linkedin: https://www.linkedin.com/company/outta%EC%95%84%EC%9A%B0%ED%83%80/  
+Youtube: https://www.youtube.com/channel/UCnufMCzh4pnqDMwUolDrM9A  
 Instagram: https://www.instagram.com/outta.official/
 
 OUTTA 드림.
